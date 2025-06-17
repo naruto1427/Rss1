@@ -10,7 +10,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # === Config ===
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-owner = 123456789  # <-- Replace with your Telegram user ID
+owner = 6672752177  # <-- Replace with your Telegram user ID
 TARGET_CHAT_ID = owner
 SOURCE_FILE = "sources.json"
 CHECK_INTERVAL = 20  # 1 minute
